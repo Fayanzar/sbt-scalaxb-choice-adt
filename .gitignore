@@ -1,0 +1,16 @@
+# Target directories (compiled binaries)
+target/
+project/target/
+project/project/
+
+# sbt boot and staging directories
+boot/
+project/boot/
+.sbtserver/
+
+# Metals (Scala Language Server) configuration
+.metals/
+.bloop/
+
+# IDE files
+.vscode
